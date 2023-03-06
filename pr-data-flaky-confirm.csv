@@ -1,0 +1,2 @@
+Project URL,SHA Detected,Module Path,Fully-Qualified Test Name (packageName.ClassName.methodName),Category,Status,PR Link,Notes
+https://github.com/vojtechhabarta/typescript-generator,caef58bfe55a8cd1fc5d7368c19e9ff818a7b7fa,typescript-generator-core,cz.habarta.typescript.generator.TaggedUnionsTest.testTaggedUnionsWithInterfaces,ID,,,
